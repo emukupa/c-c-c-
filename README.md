@@ -3,7 +3,9 @@ Implement the same functions using C, C++, C# and Java
 
 # Objectives
   ## C Goals
+  
   Inspired by the menu from [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
+  
     - [ ] C - Environment Setup
     - [ ] C - Program Structure
     - [ ] C - Basic Syntax
