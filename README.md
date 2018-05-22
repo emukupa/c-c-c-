@@ -2,10 +2,8 @@
 Implement the same functions using C, C++, C# and Java
 
 # Objectives
-  ## C Goals
-  
-  Inspired by the menu from [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
-  
+  ### Inspired by the menu from [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
+## C Goals  
     - [ ] C - Environment Setup
     - [ ] C - Program Structure
     - [ ] C - Basic Syntax
@@ -36,13 +34,13 @@ Implement the same functions using C, C++, C# and Java
     - [ ] C - Memory Management
     - [ ] C - Command Line Arguments
 
-    ### C Programming Resources
+   ## C Programming Resources
     - [ ] C - Questions & Answers
     - [ ] C - Quick Guide
     - [ ] C - Useful Resources
     - [ ] C - Discussion
 
-    ### Reading
+   ### Reading
     - [ ] UPSC IAS Exams Notes
     - [ ] Developer's Best Practices
     - [ ] Questions and Answers
