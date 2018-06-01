@@ -1,5 +1,5 @@
 # C, C++, C# and Java project intro
-Implement the same functions using C, C++, C# and Java
+Implement the same functions using C, C++, Rust, Objective-C, C# and Java
 
 # Objectives
   ### Inspired by the menu from [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
